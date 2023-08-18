@@ -1,4 +1,4 @@
-import toRegexRange from "./node_modules/to-regex-range/index";
+import toRegexRange from "./node_modules/to-regex-range/index.js";
 
 const source = toRegexRange('15', '95');
 //=> 1[5-9]|[2-8][0-9]|9[0-5]
