@@ -1,0 +1,19 @@
+{
+  "name": "labdenodemio",
+  "version": "1.0.0",
+  "description": "Primer proyecto propio de node",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+    
+  },
+  "keywords": [
+    "proyecto",
+    "1",
+    "node"
+  ],
+  "author": "Lina Landys",
+  "license": "ISC"
+}
+

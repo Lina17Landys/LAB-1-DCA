@@ -1,0 +1,31 @@
+{
+    "frutas": [
+      {
+        "nombre": "Manzana",
+        "color": "Rojo"
+      },
+      {
+        "nombre": "Banano",
+        "color": "Amarillo"
+      },
+      {
+        "nombre": "Naranja",
+        "color": "Naranja"
+      }
+    ],
+    "verduras": [
+      {
+        "nombre": "Zanahoria",
+        "color": "Naranja"
+      },
+      {
+        "nombre": "Espinaca",
+        "color": "Verde"
+      },
+      {
+        "nombre": "Brócoli",
+        "color": "Verde"
+      }
+    ]
+  }
+  
